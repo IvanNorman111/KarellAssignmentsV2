@@ -8,7 +8,7 @@ package karell;
 	import kareltherobot.*;
 
 	// This robot task is from page 11 in the text
-	public class Tesster implements Directions
+	public class Tester implements Directions
 	{
 
 	    public static void main(String[] args)
