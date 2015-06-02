@@ -13,7 +13,7 @@ package karell;
 			// TODO Auto-generated constructor stub
 		}
 		public void turnRight()
-		{
+		{ 	
 				turnLeft();
 				turnLeft();
 				turnLeft();
